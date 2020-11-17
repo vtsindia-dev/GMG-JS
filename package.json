@@ -1,0 +1,17 @@
+{
+  "name": "gmg-js",
+  "version": "1.0.0",
+  "description": "GMG - Laravel ES6 JS classes",
+  "main": "index.js",
+  "homepage": "https://github.com/GmgSante/GMG-JS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/GmgSante/GMG-JS"
+  },
+  "author": "virgil moreau",
+  "license": "ISC",
+  "keywords": []
+}
